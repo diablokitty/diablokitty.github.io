@@ -42,7 +42,7 @@ Questions from these readings:
 
 An HTML attribute is the information assigning a change to an element, so for an element like background-color, the attribute would be the actual color assigned. 
 
-2. Describe the Anatomy of an HTMl element.
+2. Describe the Anatomy of an HTML element.
 
 Elements all kind of have their own anatomy depending on what they're for.
 

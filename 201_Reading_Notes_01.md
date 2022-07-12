@@ -40,7 +40,7 @@ Questions from these readings:
 
 1. What is an HTML attribute?
 
-
+An HTML attribute is the information assigning a change to an element, so for an element like background-color, the attribute would be the actual color assigned. 
 
 2. Describe the Anatomy of an HTMl element.
 

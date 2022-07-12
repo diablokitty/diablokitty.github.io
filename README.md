@@ -1,2 +1,2 @@
 
-[201 Reading Notes](diablokitty.github.io/reading_notes)
+[201 Reading Notes](./reading_notes)
